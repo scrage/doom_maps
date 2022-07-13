@@ -3,7 +3,7 @@
 **Version:** beta
 **Number of levels:** 3
 **Compatibility level:** Boom: Doom2 or above
-**Difficulty:** TNT Evilution, with difficulty ramping up. Platforming skills are rewarded but not crutial fo
+**Difficulty:** TNT Evilution, with difficulty ramping up. Platforming skills are rewarded but not crutial for
 progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, medium, hard).
 
 
