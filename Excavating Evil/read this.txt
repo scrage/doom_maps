@@ -54,7 +54,7 @@ You enter the first digsite of Phobos Colony, where things escalate quickly and 
 
 The first map sets the gameplay expectations: Take advantage on in-fighting to save ammo, get comfortable with
 occasionally manouvering and controlling enemies in tight spaces and at choke points, and explore long sequences of
-secrets sequences. Platforming is rewarded, and secret rewards are often not safe at all. You can adjust difficulty
+secrets. Platforming is rewarded, and secret rewards are often not safe at all. You can adjust difficulty
 by progressing faster or slower.
 
 
