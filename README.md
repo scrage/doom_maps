@@ -139,4 +139,7 @@ As decino would put it, this map is not difficult, but it's easy to die here.
 ## Contact & Donation
 
 If you happened to like playing these maps, you can buy me a coffee or send whatever small amount you see fit [via Paypal
-to @fazekasistvan](https://paypal.me/fazekasistvan?country.x=HU&locale.x=hu_HU).
+to @fazekasistvan](https://paypal.me/fazekasistvan?country.x=HU&locale.x=hu_HU). You don't need to, of course, but if you
+do, I very much appreciate it! 🙏
+<br />
+Thank you!
