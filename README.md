@@ -10,7 +10,12 @@ These are maps I created. Enjoy.
 **Number of levels:** 3 <br />
 **Compatibility level:** Boom: Doom2 or above <br />
 **Difficulty:** TNT Evilution, with difficulty ramping up. Platforming skills are rewarded but not crutial for
-progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, medium, hard).
+progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, medium, hard). <br />
+**Cooperative 2-4 Player:** Not implemented. <br />
+**Jump:** Not Allowed. <br />
+**Crouch:** Not Allowed. <br />
+**Editors used:** GZ Doom Builder, Slade. <br />
+**Build Time:** about 4 weeks per each map.
 
 <p>
 This WAD exists because decino plays Doom. -- Thank you man, you rock.
@@ -131,7 +136,7 @@ As decino would put it, this map is not difficult, but it's easy to die here.
 ### Example for GZ DOOM:
   1. Copy your DOOM2.WAD and the custom WAD into your GZDoom folder, next to **gzdoom.exe**.
   2. Open a command line and navigate to your GZDoom folder, then start gzdoom with the following command:
-  3. `gzdoom.exe "Excavating Evil beta.wad"`
+  3. `gzdoom.exe "Excavating Evil.wad"`
   4. Select Doom 2 in the IWAD list and play the game!
 
 ---

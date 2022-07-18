@@ -114,7 +114,7 @@ As decino would put it, this map is not difficult, but it's easy to die here.
 ### Example for GZ DOOM:
   1. Copy your DOOM2.WAD and the custom WAD into your GZDoom folder, next to gzdoom.exe.
   2. Open a command line and navigate to your GZDoom folder, then start gzdoom with the following command:
-     gzdoom.exe "Excavating Evil beta.wad"
+     gzdoom.exe "Excavating Evil.wad"
   3. Select Doom 2 in the IWAD list and play the game!
 
 ---
@@ -122,4 +122,6 @@ As decino would put it, this map is not difficult, but it's easy to die here.
 ## Contact & Donation
 
 If you happened to like playing these maps, you can buy me a coffee or send whatever small amount you see fit via Paypal
-to @fazekasistvan: https://paypal.me/fazekasistvan?country.x=HU&locale.x=hu_HU.
+to @fazekasistvan: https://paypal.me/fazekasistvan?country.x=HU&locale.x=hu_HU. Not necessary of course, but if you do,
+thank you very much!
+Enjoy!
