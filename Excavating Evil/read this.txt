@@ -2,8 +2,8 @@
 
 **Version:** beta
 **Number of levels:** 3
-**Compatibility level:** Boom: Doom2 or above
-**Difficulty:** TNT Evilution, with difficulty ramping up. Platforming skills are rewarded but not crutial for
+**Format:** Boom: Doom2
+**Difficulty:** TNT Evilution, with much higher monster density and difficulty ramping up. Platforming skills are rewarded but not crutial for
 progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, medium, hard).
 
 
@@ -64,7 +64,7 @@ weapon you want to unlock. Clearing either or both of the two areas rewards you 
 ---
 
 ### MAP02: The Blood Theatre
-7690 Vertices. 9299 Linedefs.
+7728 Vertices. 9346 Linedefs.
 9 secrets.
 
 **Enemy count**
@@ -78,6 +78,7 @@ by the community for unknown reasons. Reasons you will soon find out.
 
 
 The second map focuses on a main arena, and exploration and cautious gameplay are rewarded again.
+When you enter the amphitheatre, buckle up, because the dance starts!
 
 ---
 
@@ -103,13 +104,22 @@ can be approached differently and the difficulty can be raised dynamically based
 
 
 As decino would put it, this map is not difficult, but it's easy to die here.
+Only after finishing and testing the map did I realise that the ending of the level should be at the end of the last arena.
+I apologise for the strain the platforming and the very last section puts onto the player, those will be cut out and lifted
+to the next level in future development.
+
+---
+
+## Thank you
+Thank you merkaba48 so much for testing the map and providing feedbacks!
 
 ---
 
 ## How to play them
-1. Purchase the base game (e.g. via Steam: https://store.steampowered.com/app/2300/DOOM_II/)
-2. Download a source port (e.g. GZ Doom: https://zdoom.org/downloads)
-3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game however your source port allows it.
+Currently the wad might have some gameplay issues with using PRBoom+. It was tested and should work properly under GZ Doom:
+1. Purchase the base game (e.g. [via Steam](https://store.steampowered.com/app/2300/DOOM_II/))
+2. Download a source port (e.g. [GZ Doom](https://zdoom.org/downloads))
+3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game (GZ Doom is tested.)
 
 ### Example for GZ DOOM:
   1. Copy your DOOM2.WAD and the custom WAD into your GZDoom folder, next to gzdoom.exe.

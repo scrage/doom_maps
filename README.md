@@ -8,8 +8,8 @@ These are maps I created. Enjoy.
 
 **Version:** beta <br />
 **Number of levels:** 3 <br />
-**Compatibility level:** Boom: Doom2 or above <br />
-**Difficulty:** TNT Evilution, with difficulty ramping up. Platforming skills are rewarded but not crutial for
+**Format:** Boom: Doom2<br />
+**Difficulty:** TNT Evilution, with much higher monster density and difficulty ramping up. Platforming skills are rewarded but not crutial for
 progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, medium, hard). <br />
 **Cooperative 2-4 Player:** Not implemented. <br />
 **Jump:** Not Allowed. <br />
@@ -18,7 +18,7 @@ progressing till the end of map 3. Tuned for all 3 difficulty settings (easy, me
 **Build Time:** about 4 weeks per each map.
 
 <p>
-This WAD exists because decino plays Doom. -- Thank you man, you rock.
+This WAD exists because decino plays Doom. -- Thank you man, you rock!
 </p>
 
 <p>
@@ -75,13 +75,13 @@ by progressing faster or slower.
 
 <p>
 Two of the areas are either mutually skippable, or can be mutually cleared from both directions, depending on which
-weapon you want to unlock. Clearing either or both of the two areas rewards you with a supercharge for the final fight.
+weapon you want to unlock. Clearing either or both of the two areas rewards you with one or two supercharges for the final fight.
 </p>
 
 ---
 
 ### MAP02: The Blood Theatre
-7690 Vertices. 9299 Linedefs.<br />
+7728 Vertices. 9346 Linedefs.<br />
 9 secrets.<br />
 <br />
 **Enemy count**
@@ -95,7 +95,8 @@ by the community for unknown reasons. Reasons you will soon find out.
 </p>
 
 <p>
-The second map focuses on a main arena, and exploration and cautious gameplay are rewarded again.
+The second map focuses on a main arena, and exploration and cautious gameplay are rewarded again. <br />
+When you enter the amphitheatre, buckle up, because the dance starts!
 </p>
 
 ---
@@ -123,15 +124,22 @@ can be approached differently and the difficulty can be raised dynamically based
 </p>
 
 <p>
-As decino would put it, this map is not difficult, but it's easy to die here.
+As decino would put it, this map is not difficult, but it's easy to die here. -- Really easy. <br />
+Only after finishing and testing the map did I realise that the ending of the level should be at the end of the last arena. I apologise for the strain the platforming and the very last section puts onto the player, those will be cut out and lifted to the next level in future development.
 </p>
 
 ---
 
+## Thank you
+Thank you merkaba48 so much for testing the map and providing feedbacks! <br />
+
+---
+
 ## How to play them
+Currently the wad might have some gameplay issues with using PRBoom+. It was tested and should work properly under GZ Doom: <br />
 1. Purchase the base game (e.g. [via Steam](https://store.steampowered.com/app/2300/DOOM_II/))
 2. Download a source port (e.g. [GZ Doom](https://zdoom.org/downloads))
-3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game however your source port allows it.
+3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game (GZ Doom is tested.)
 
 ### Example for GZ DOOM:
   1. Copy your DOOM2.WAD and the custom WAD into your GZDoom folder, next to **gzdoom.exe**.
