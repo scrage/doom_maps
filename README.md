@@ -81,7 +81,7 @@ weapon you want to unlock. Clearing either or both of the two areas rewards you 
 ---
 
 ### MAP02: The Blood Theatre
-7728 Vertices. 9346 Linedefs.<br />
+7771 Vertices. 9401 Linedefs.<br />
 9 secrets.<br />
 <br />
 **Enemy count**
@@ -136,16 +136,22 @@ Thank you merkaba48 so much for testing the map and providing feedbacks! <br />
 ---
 
 ## How to play them
-Currently the wad might have some gameplay issues with using PRBoom+. It was tested and should work properly under GZ Doom: <br />
+Currently the wad might have some gameplay issues with using PRBoom+. It was tested and should work properly with GZ Doom: <br />
 1. Purchase the base game (e.g. [via Steam](https://store.steampowered.com/app/2300/DOOM_II/))
 2. Download a source port (e.g. [GZ Doom](https://zdoom.org/downloads))
-3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game (GZ Doom is tested.)
+3. Put the downloaded WAD next to your DOOM2.WAD file, and start the game.
 
-### Example for GZ DOOM:
+### Playing with GZ DOOM:
   1. Copy your DOOM2.WAD and the custom WAD into your GZDoom folder, next to **gzdoom.exe**.
   2. Open a command line and navigate to your GZDoom folder, then start gzdoom with the following command:
-  3. `gzdoom.exe "Excavating Evil.wad"`
+  3. `gzdoom ExcavatingEvil.wad`
   4. Select Doom 2 in the IWAD list and play the game!
+
+### Playing with PRBoom+:
+  1. Copy your DOOM2.WAD and the custom WAD into your PRBoom+ folder, next to glboom-plus.exe
+  2. Open a command line and navigate to your PRBoom+ folder, then start gzdoom with the following command:
+  3. `glboom-plus -iwad doom2.wad -file ExcavatingEvil.wad`
+  3. Play the game!
 
 ---
 
