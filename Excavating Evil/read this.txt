@@ -64,7 +64,7 @@ weapon you want to unlock. Clearing either or both of the two areas rewards you 
 ---
 
 ### MAP02: The Blood Theatre
-7728 Vertices. 9346 Linedefs.
+7771 Vertices. 9401 Linedefs.
 9 secrets.
 
 **Enemy count**
